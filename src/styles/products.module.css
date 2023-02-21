@@ -1,0 +1,21 @@
+.btn {
+    width: 50px;
+    font-weight: bold;
+    color: white;
+    margin: 3px;
+    background-color: rgb(220, 97, 97);
+    border-radius: 10px;
+    border-style: none;
+    padding: 2px;
+}
+
+.btn:hover {
+    background-color: rgb(127, 5, 5);
+}
+
+.data {
+    color: rgb(47, 12, 243);
+    /* background-color: red; */
+    position: relative;
+    margin-bottom: 10px;
+}

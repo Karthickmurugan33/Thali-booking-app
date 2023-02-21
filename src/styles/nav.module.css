@@ -1,0 +1,40 @@
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* margin-top: 20px; */
+    color: gray;
+    height: 50px;
+    background-color: rgb(25, 29, 37);
+    width: 100%;
+    /* position: fixed; */
+
+    /* background-image: url(https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=600); */
+
+}
+
+.navBar {
+    text-decoration: none;
+    color: rgb(227, 216, 216);
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.navBar:hover {
+    color: chocolate;
+}
+
+.count {
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-left: 40px;
+    margin-right: 30px;
+    color: rgb(130, 130, 234);
+}
+
+span {
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bold;
+}
